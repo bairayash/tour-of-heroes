@@ -1,0 +1,32 @@
+ul li{
+	list-style-type: none;
+	background-color: teal;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-color: teal;
+	margin-bottom: 5px;
+	width:150px;
+}
+
+.hero-id{
+	background-color: grey;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	display:inline-block;
+	padding: 5px;
+	border-color: grey;
+}
+
+.dashboard-tile{
+	display: inline-block;
+	height: 60px;
+	width:100px;
+	margin : 20px;
+	background-color: #607d8b;
+	border: 1px solid #ccc;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 40px;
+	color:white;
+	font-weight: bold;
+}
